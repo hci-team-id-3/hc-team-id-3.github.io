@@ -55,5 +55,5 @@ All of the originally planned implementations were carried out!
 
 ## Final User Interface GIF
 
-![](p1.3.gif)
+![UI](images/p1.3.gif)
 
