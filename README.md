@@ -53,3 +53,7 @@ All of the originally planned implementations were carried out!
 * Pratik Patel - Basic layout, Weather widget, Presentation
 * Michael Kiros - Basic layout, News feed widget, Spotify, Weather, Time/Date/Clock, Integration and Finalization
 
+## Final User Interface GIF
+
+![](p1.3.gif)
+
