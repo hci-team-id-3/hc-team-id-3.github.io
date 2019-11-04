@@ -1,9 +1,17 @@
 # Presentation
 
-## Sketch
+## LINKS
+
+Repository Link:  https://github.com/Maktm/P1.3
+
+Presentation Page Link:  https://hci-team-id-3.github.io/
+
+GIF image can be found as the bottom of this page 
+
+## Original Prototype Sketch
 ![Sketch of UI](images/sketch.png)
 
-### Functions:
+### Desired Functions:
 
 * General information
     * Clock (date and time)
